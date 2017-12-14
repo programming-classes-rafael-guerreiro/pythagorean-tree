@@ -13,5 +13,18 @@ public class Square {
 	private final Point v4;
 
 	// private final Square previous;
+	public Square(BigDecimal side, Point startingPoint ,BigDecimal angle) {
+		this.side = side;
+		v1 = 
+		myPoints(angle);
+		// TODO Auto-generated constructor stub
+	}
+	
+	private void myPoints(BigDecimal angle2){
+		//cosAngle
+		//sinAngle
+//		v1 = new Point(,);
+		
+	}
 	
 }
